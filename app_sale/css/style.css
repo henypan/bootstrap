@@ -31,8 +31,8 @@ section {
    margin-right: 30px;
 }
 
-.jumbotron .showcase-img {
-   width: 75%;
+.jumbotron img.showcase-img {
+   width: 61%;
 }
 
 img.demo {
@@ -52,6 +52,18 @@ section#feature ul li {
    font-size: 16px;
    list-style: none;
    line-height: 2.0em;
+}
+
+section#title-bar {
+   padding: 0;
+   margin: 0;
+   height: 80px;
+   background: #1caa98;
+   color: #fff;
+}
+
+section#title-bar h1 {
+   margin-bottom: 20px;
 }
 
 footer {
